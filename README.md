@@ -1,6 +1,6 @@
 # Multiple-Choice Question Answering on the RACE Dataset
 
-This repository contains the project developed for the **Natural Language Processing** (NLP) course at **Politecnico di Milano** (Academic Year 2024-2025), taught by **Prof. Mark Carman**. 
+This repository contains the project developed for the **Natural Language Processing** (NLP) course at **Politecnico di Milano** (Academic Year A.Y. 2024-2025), taught by **Prof. Mark Carman**. 
 
 The project focuses on building, evaluating, and fine-tuning various NLP models for multiple-choice reading comprehension using the **RACE** (Reading Comprehension Dataset from Examinations) dataset.
 
